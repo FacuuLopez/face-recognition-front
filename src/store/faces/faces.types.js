@@ -1,0 +1,7 @@
+export const FACES_ACTION_TYPES = {
+    COUNTER:'faces/counter',
+    FETCH_FACES_START: 'faces/FETCH_FACES_START',
+    FETCH_FACES_SUCCESS: 'faces/FETCH_FACES_SUCCESS',
+    FETCH_FACES_FAILED: 'faces/FETCH_FACES_FAILED',
+  };
+  

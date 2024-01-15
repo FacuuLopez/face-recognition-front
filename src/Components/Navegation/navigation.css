@@ -1,0 +1,16 @@
+li > a{
+    cursor: pointer;
+    color: rgb(202, 203, 203)!important;
+    text-decoration: none;
+}
+/* li > a:hover{
+    color:rgb(232, 232, 232)!important;
+} */
+.actived{
+    text-decoration: underline!important;
+    color: whitesmoke!important;
+}
+nav > a{
+    text-decoration: none;
+    cursor: pointer;
+}
